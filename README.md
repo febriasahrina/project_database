@@ -5,9 +5,10 @@ Aplikasi berbasis Desktop yang berisi formulir untuk mengajukan jenis Uang Kulia
 
 Dokumentasi Aplikasi
 
-![1](https://user-images.githubusercontent.com/35028561/112118679-31919080-8bef-11eb-87ae-49fe173abbf5.png)
-![2](https://user-images.githubusercontent.com/35028561/112118716-3a826200-8bef-11eb-9d64-5934a7a283e1.png)
-![3](https://user-images.githubusercontent.com/35028561/112118723-3c4c2580-8bef-11eb-8bc1-d056b1427314.png)
+![1](https://user-images.githubusercontent.com/35028561/112119023-8df4b000-8bef-11eb-814f-e95b8dbeb17e.png)
+![2](https://user-images.githubusercontent.com/35028561/112119038-92b96400-8bef-11eb-9e27-6b316d34e785.png)
+![3](https://user-images.githubusercontent.com/35028561/112119028-8fbe7380-8bef-11eb-8e2e-43de4b400bb2.png)
+
 
 
 
