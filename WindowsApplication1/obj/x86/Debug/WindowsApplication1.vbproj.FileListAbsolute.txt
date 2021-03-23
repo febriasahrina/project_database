@@ -1,0 +1,109 @@
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Formulir.resources
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Database1.mdf
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Windows 10\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\bin\Debug\Database1.mdf
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\bin\Debug\Database1_log.ldf
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.JenisUKT.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.formBerkeadilan.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.formPenuh.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DiriSendiri.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataAyah.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataIbu.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataOrangLain.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataPerusahaan.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataMobil.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataMotor.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sumber.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.InvestasiPajak.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Berkas.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuratPernyataan.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataMahasiswa.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CetakBilling.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MenuLain.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.UpdateData.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DeleteData.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Report.resources
+D:\Riri\DATABASE\Tubes\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.form.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\bin\Debug\Database1.mdf
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\bin\Debug\Database1_log.ldf
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Berkas.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CetakBilling.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataAyah.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataIbu.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataMobil.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataMotor.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataOrangLain.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataPerusahaan.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DeleteData.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DiriSendiri.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.formBerkeadilan.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.formPenuh.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.InvestasiPajak.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.JenisUKT.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MenuLain.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.form.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Report.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sumber.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuratPernyataan.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataMahasiswa.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.UpdateData.resources
+D:\Riri\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Berkas.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.CetakBilling.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataAyah.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataIbu.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataMobil.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataMotor.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataOrangLain.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataPerusahaan.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DeleteData.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DiriSendiri.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.formBerkeadilan.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.formPenuh.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.InvestasiPajak.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.JenisUKT.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MenuLain.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.form.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Report.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Sumber.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.SuratPernyataan.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.DataMahasiswa.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.UpdateData.resources
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Riri\KAMPUS\SEMESTER 2\DATABASE\Tubes\TUBES NILA A\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
